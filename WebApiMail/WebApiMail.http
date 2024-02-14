@@ -1,0 +1,6 @@
+@WebApiMail_HostAddress = http://localhost:5232
+
+GET {{WebApiMail_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
